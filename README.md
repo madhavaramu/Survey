@@ -1,5 +1,6 @@
 ## Deployment
 Setting Up VPS for Python Environment:
+
 Deployment involves packaging Web Application and putting it in a production environment that can run the application. A production environment is the canonical version of our current application and its associated data into live.
 Common Prerequisites:
 Python web application deployments are comprised of many pieces that need to be individually configured. Below is the list of components need to be set up to run a Python web application. Here is a map that visually depicts how each deployment topic relates to each other.
